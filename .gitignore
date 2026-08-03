@@ -1,0 +1,6 @@
+*.duckdb
+s3_raw_zone/
+ANSWER_KEY_do_not_use_in_pipeline.csv
+.env
+*.csv
+__pycache__/
